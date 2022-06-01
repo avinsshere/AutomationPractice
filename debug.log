@@ -1,0 +1,30 @@
+[0724/172649.407:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0724/173419.048:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0904/101428.962:ERROR:process_reader_win.cc(108)] process 6864 not found
+[0904/101428.962:ERROR:exception_snapshot_win.cc(98)] thread ID 6884 not found in process
+[0904/101428.962:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0905/125416.572:ERROR:file_io_win.cc(161)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir3356_411656853\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0905/125416.572:ERROR:file_io_win.cc(170)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir3356_411656853\Crashpad\reports\5d4b406e-1fb6-43e5-bca7-5cf621fd01c9.dmp: The system cannot find the path specified. (0x3)
+[0905/125416.573:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0906/181048.768:ERROR:file_io_win.cc(161)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir5348_996168838\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0906/181048.768:ERROR:file_io_win.cc(170)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir5348_996168838\Crashpad\reports\95cad964-e20d-438b-8164-5ba28e534114.dmp: The system cannot find the path specified. (0x3)
+[0906/181048.768:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0913/104652.126:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0918/150711.562:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0919/114227.584:ERROR:file_io_win.cc(161)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir3212_2040937414\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0919/114227.585:ERROR:file_io_win.cc(170)] CreateFile C:\Users\bheemk\AppData\Local\Temp\2\scoped_dir3212_2040937414\Crashpad\reports\4566464d-e59d-4679-b00d-f6b13920a14e.dmp: The system cannot find the path specified. (0x3)
+[0919/114227.585:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0919/121025.679:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0325/145417.340:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0514/144036.761:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir16264_370432129\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0514/144036.767:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir16264_370432129\Crashpad\reports\183485fb-cb79-4a77-8bc2-42c1dbca99c1.dmp: The system cannot find the path specified. (0x3)
+[0514/144036.767:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0514/170905.338:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir13628_7955401\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0515/121533.294:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0515/121533.305:ERROR:exception_snapshot_win.cc(98)] thread ID 5900 not found in process
+[0515/121533.305:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0518/124156.570:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir15476_471401698\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0525/181709.583:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir17172_1821627546\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0525/220850.353:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir16664_2062092152\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0525/220850.362:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ANKITA~1.THO\AppData\Local\Temp\scoped_dir16664_2062092152\Crashpad\reports\68a6e147-0f29-42f5-b332-ea9a04dc1ca5.dmp: The system cannot find the path specified. (0x3)
+[0525/220850.362:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
